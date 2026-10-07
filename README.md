@@ -13,9 +13,9 @@ All report content is in the directory:
 The report takes the following structure:
 * 01-Data.Rmd
 * 02-Introduction.pdf
-* 03-Analysis1.ipynb
-* 03-Analysis2.ipynb
-* 03-Analysis3.ipynb
+* 03-Analysis1.pdf
+* 03-Analysis2.pdf
+* 03-Analysis3.pdf
 * 04-Conclusion.pdf
 
 
